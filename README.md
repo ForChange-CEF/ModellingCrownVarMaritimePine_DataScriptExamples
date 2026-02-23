@@ -1,6 +1,6 @@
 # Al Pavel et al (2025) Modelling crown variables for maritime pine in Portugal: data and script examples
 
-This repository contains data, examples of R scripts and of R script outputs used/created for the research article of 2025 entitled "Compatible models to predict tree crown ratio, crown length and height to the base of the crown for maritime pine (Pinus pinaster Aiton.)" authored by Al Pavel MA, Barreiro S, Tomé M  published in Annals of Forest Science: DOI ####
+This repository contains data, examples of R scripts and of R script outputs used/created for the research article of 2025 entitled "Compatible models to predict tree crown ratio, crown length and height to the base of the crown for maritime pine (Pinus pinaster Aiton.)" authored by Al Pavel MA, Barreiro S, Tomé M  published in Annals of Forest Science; https://doi.org/10.1186/s13595-025-01311-9
 
 A brief descriptiom of the repository files can be found in the file *ModCrownVarScripts_TP01-2025_AlPavel_etal_2025.pdf*
 
